@@ -12,6 +12,4 @@ _The default folder that whatsapp uses to save voice messages files is:_
 
 **_Hope you'll like the app! 😃_**
 
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/mgt5Szo.mp4" type="video/mp4">
-</video>
+https://i.imgur.com/mgt5Szo.mp4
