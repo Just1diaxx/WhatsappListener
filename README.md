@@ -4,7 +4,7 @@
 
 ---
 
-_Whatsapp listener is an android app for secretly listening to whatsapp voice messages_
+_Whatsapp listener is an android app builded with Flutter to secretly listen to whatsapp voice messages._
 
 _The default folder that whatsapp uses to save voice messages files is:_
 **<Your device> >> Android >> media >> com.whatsapp >> Whatsapp >> Media >> Whatsapp voice notes**
